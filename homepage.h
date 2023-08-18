@@ -180,7 +180,7 @@ void gambling()
             if (temp2 == rollDiceNumber)
             {
                 balance -= input;
-                input *= 2.5;
+                input *= 5;
                 balance += input;
                 std::cout << "\033[37m" << "Congratulations! You won! " << "\033[32m" <<"Your Current Updated Balance: " << balance << std::endl;
             }
