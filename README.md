@@ -80,6 +80,10 @@ Feeling lucky? Flip a Coin or Roll the dice (and your fortunes) with our heart-p
 ```shell
 clang++ main.cpp -o rags2riches
 ```
+*OR*
+```shell
+g++ main.cpp -o rags2riches
+```
 - 🎉 Unleash the magic! Open the executable you just summoned, and voilà, you're ready to set sail on your riches quest!
 
 ## 🎉 Quirks and Quarks
