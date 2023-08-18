@@ -72,6 +72,8 @@ Feeling lucky? Flip a Coin or Roll the dice (and your fortunes) with our heart-p
 - Ready, Set, Financial Frenzy! 🚀💰
 
 <br>
+<hr>
+<br>
 
 ## 🚀 Rocket-Powered Installation Adventure
 - 🧬 Clone or Download the repo—like unraveling a digital treasure map!
