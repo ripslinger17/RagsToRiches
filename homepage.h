@@ -41,7 +41,7 @@ void crypto(){
     {
         std::cout << "\033[33m" << "Enter Portfolio Value: ";
         std::cin >> input;
-        if (input > balance || input < 5000)
+        if (input > balance || input <= 0)
         {
             std::cout << "\033[34m" << "Invalid Input" << std::endl;
         }

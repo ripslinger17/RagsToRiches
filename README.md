@@ -33,7 +33,7 @@ Dive into the mystical realm of Cryptocurrency, where dreams of riches come with
 
 - **Returns:** Could be 2x 🤑 or nada 🙅‍♂️
 - **Investment Span:** Take your pick, from a quick 1 month to a daring 6 months ⏰
-- **Investment Playground:** Anywhere from ₹5000 (don't forget your digital wallet!) to your total balance 💳
+- **Investment Playground:** Anywhere from ₹1 (don't forget your digital wallet!) to your total balance 💳
 
 ### Gambling Thrills 🎰🎲
 
